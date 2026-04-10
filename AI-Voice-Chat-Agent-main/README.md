@@ -7,7 +7,7 @@
 
 Talk to distinct AI characters using your microphone. The agent transcribes your speech, detects your mood, generates a character-appropriate response, and speaks back using high-quality text-to-speech. Supports interactive games, story adventures, OpenAI Realtime API (WebRTC), and fully offline setups via Ollama + Faster-Whisper + Kokoro TTS.
 
-Built by [HydraBytes](https://www.hydrabytes.it.com) — Next-gen digital solutions from Pakistan.
+Built by [HydraBytes](https://www.hydrabytes.tech) — Next-gen digital solutions from Pakistan.
 
 Check out the game and story documentation:
 - [Games Documentation](docs/games.md): Play interactive games with various game master characters.
@@ -803,4 +803,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Built by [HydraBytes](https://www.hydrabytes.it.com) — Next-gen digital solutions from Pakistan.
+Built by [HydraBytes](https://www.hydrabytes.tech) — Next-gen digital solutions from Pakistan.
